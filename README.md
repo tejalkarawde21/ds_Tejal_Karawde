@@ -1,17 +1,14 @@
 # ds_Tejal_Karawde
 # Trader Behavior vs Market Sentiment Analysis
 
-This repository contains analysis of trader behavior in relation to
-Bitcoin market sentiment (Fear vs Greed).
+Candidate: Tejal Karawde
 
-## Contents
-- Google Colab notebook with full analysis
-- Processed datasets
-- Visualization outputs
-- Final summarized report (PDF)
+This repository contains an analysis of how trader behavior
+(profitability, volume, and risk) aligns with Bitcoin market
+sentiment (Fear vs Greed).
 
-## Tools Used
-- Python
-- Pandas
-- Matplotlib
-- Google Colab
+## Structure
+- notebook_1.ipynb : Main Google Colab notebook
+- csv_files/        : Processed datasets
+- outputs/          : Charts and visualizations
+- ds_report.pdf     : Final summarized report
